@@ -42,7 +42,3 @@ Sending text, image, video messages
 
 Checking message delivery status
 
-Notifications & Settings
-
-Receiving notifications for likes, comments, and friend requests
-
